@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+blackode10011-supreme-space-capybara-95jjxqwv44gcp97r/workspaces/coderoad-vscode"
+		}
+	],
+	"remoteAuthority": "codespaces+blackode10011-supreme-space-capybara-95jjxqwv44gcp97r",
+	"settings": {
+		"typescript.tsdk": "./node_modules/typescript/lib",
+		"githubPullRequests.ignoredPullRequestBranches": [
+			"master"
+		]
+	}
+}
